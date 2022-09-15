@@ -1,2 +1,2 @@
 # DRPM_Code
-Rotinas computacionais do artigo "Discrete Representation of Photovoltaic Modules"
+Rotinas computacionais utilizadas na confecção do artigo "Discrete Representation of Photovoltaic Modules"
